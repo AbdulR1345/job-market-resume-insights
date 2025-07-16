@@ -27,9 +27,9 @@ This project is part of my Data Analyst portfolio and aims to explore hiring tre
 | File | Description |
 |------|-------------|
 | `job_data.csv` | Cleaned dataset of job listings |
-| `analysis_notebook.ipynb` | Jupyter notebook with data analysis |
-| `job_market_dashboard.pbix` | Power BI dashboard file |
-| `job_dashboard.pdf` | PDF version of final dashboard |
+| `job_market_analysis.ipynb` | Jupyter notebook with data analysis |
+| `data_analyst_project_1_dashboard.pbix` | Power BI dashboard file |
+| `power_BI_dashboard_project_1.pdf` | PDF version of final dashboard |
 | `visuals/` | Screenshots of dashboard pages |
 
 ---
@@ -55,4 +55,4 @@ This project is part of my Data Analyst portfolio and aims to explore hiring tre
 ## 🙋‍♂️ Created By
 
 **Abdul Rahaman**  
-Aspiring Data Analyst | [LinkedIn](www.linkedin.com/in/abdul-rahaman-14b183320) | Open to Work 💼
+Aspiring Data Analyst | [LinkedIn](https://www.linkedin.com/in/abdul-rahaman-14b183320/) | Open to Work 💼
