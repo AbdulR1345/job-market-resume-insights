@@ -3,6 +3,9 @@
 This project is part of my Data Analyst portfolio and aims to explore hiring trends, resume relevance, job functions, and industry insights from job listing data.
 
 ---
+## 📽️ Project Demo
+[Watch the video demo here](https://github.com/AbdulR1345/job-market-resume-insights/blob/main/job%20market%20resume%20insights/job_market_analysis_dashboard.mp4)
+
 
 ## 🔍 Project Goals
 
