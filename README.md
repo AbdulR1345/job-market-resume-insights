@@ -49,7 +49,7 @@ This project is part of my Data Analyst portfolio and aims to explore hiring tre
 ## 🚀 How to Use
 
 1. Clone the repo or download files
-2. Open `analysis_notebook.ipynb` in Jupyter/Colab
+2. Open `job_market_analysis.ipynb` in Jupyter/Colab
 3. View dashboard in PDF or open `.pbix` in Power BI Desktop
 
 ---
