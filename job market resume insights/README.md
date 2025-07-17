@@ -1,4 +1,4 @@
-# 📊 Job Market & Resume Insight Analytics (2025)
+# 📊 Job Market Insight Analytics (2025)
 
 This project is part of my Data Analyst portfolio and aims to explore hiring trends, resume relevance, job functions, and industry insights from job listing data.
 
